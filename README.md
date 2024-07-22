@@ -28,7 +28,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tharuka-tech/tharuka-tech/output/snake.svg" alt="Snake animation" />
-
-###
 
